@@ -1,8 +1,8 @@
 # todo-app
 A To-Do App using Flask
 
-File
+File:
 app.py
 
-Templates
+Templates:
 index.html
